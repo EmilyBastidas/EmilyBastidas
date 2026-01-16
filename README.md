@@ -1,24 +1,25 @@
+<div>
+<img width="2142" height="598" alt="Banner" src="https://github.com/user-attachments/assets/dceb76ee-bb10-4129-b7ae-29a83d0bfe5b" /> </div>
+
+
 <h1 align="center">console.log ("Hola Mundo 👋, soy Emily")</h1>
+
+<img align="right" width="300" height="250" alt="gif" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjQ4NDN1N3hjNXdmczdsNjJ1N2F2dHA3OWEyZGxxM3NmMjR3enkzcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+
 <h3 align="center">👩‍💻 Sobre mí como desarrolladora</h3>
-<p>Soy desarrolladora Full Stack apasionada por el frontend y backend , con interés constante en aprender, mejorar y construir aplicaciones web cada vez más sólidas y funcionales.</p>
-<p>Me interesa colaborar en proyectos de frontend y backend enfocados en impacto real, especialmente plataformas web, sistemas de gestión y aplicaciones CRUD. Actualmente me motiva desarrollar una plataforma para el control de citas y fichas veterinarias de gatos en un refugio, combinando tecnología y propósito social. 🐾</p>
-<h4 align="center">🛠️ Proyectos de desarrollo de software</h4>
+<p>Soy desarrolladora Full Stack apasionada por el frontend y backend, con interés constante en aprender, mejorar y construir aplicaciones web cada vez más sólidas y funcionales.</p>
+<p>Me interesa colaborar en proyectos de frontend y backend enfocados en impacto real. Actualmente me motiva desarrollar una plataforma para el control de citas y fichas veterinarias de gatos en un refugio, combinando tecnología y propósito social. 🐾</p>
+<h3 align="center">🛠️ Proyectos de desarrollo de software</h3>
 <li>Replicación de un post de Instagram utilizando solo HTML5 y CSS, aplicando estructura semántica, modelo de caja, selectores, manejo de overflow y distintos sistemas de posicionamiento (Flexbox, position, float y display).</li>
 <li>Desarrollo de un feed de Instagram con Bootstrap 5.3, implementando layouts responsivos, grid system, modales y dropdowns sin JavaScript personalizado.</li>
 <li>Creación de formularios web con HTML5 y Bootstrap, utilizando validaciones nativas y feedback visual para asegurar calidad de datos y buena experiencia de usuario.</li>
-<li>Implementación de proyectos en JavaScript puro, como generadores dinámicos (excusas y dominios), trabajando con arrays, funciones reutilizables, concatenación de strings y eventos.</li>
 <li>Diseño y desarrollo de un e-commerce full stack, incluyendo autenticación de usuarios, backend con API propia, CRUD de productos, integración con APIs externas y despliegue en producción. </li> 
 <br>
   <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilybastidas&label=Profile%20views&color=0e75b6&style=flat" alt="emilybastidas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emilybastidas" alt="emilybastidas" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emilybastidas&label=Profile%20views&color=0e75b6&style=flat" alt="emilybastidas" /> </p
 
 <p align="left"> <a href="https://twitter.com/@emilye78018" target="blank"><img src="https://img.shields.io/twitter/follow/emilye78018?logo=twitter&style=for-the-badge" alt="emilye78018" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +36,5 @@
 <p> <img align="centro" src="https://github-readme-stats.vercel.app/api?username=emilybastidas&show_icons=true&locale=es" alt="emilybastidas" /></p>
 
 <p><img align="centro" src="https://github-readme-streak-stats.herokuapp.com/?user=emilybastidas&" alt="emilybastidas" /></p>
+
+
